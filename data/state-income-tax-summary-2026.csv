@@ -1,52 +1,52 @@
-state_code,state,taxes_wages,standard_deduction_single,standard_deduction_married,personal_exemption_single,personal_exemption_married,credit_single,credit_married,top_marginal_rate
-AL,Alabama,yes,3000,8500,1500,3000,0,0,0.05
-AK,Alaska,no,0,0,0,0,0,0,0
-AZ,Arizona,yes,8350,16700,0,0,0,0,0.025
-AR,Arkansas,yes,2470,4940,0,0,29,58,0.039
-CA,California,yes,5540,11080,0,0,153,306,0.133
-CO,Colorado,yes,16100,32200,0,0,0,0,0.044
-CT,Connecticut,yes,0,0,15000,24000,0,0,0.0699
-DE,Delaware,yes,3250,6500,0,0,110,220,0.066
-FL,Florida,no,0,0,0,0,0,0,0
-GA,Georgia,yes,12000,24000,0,0,0,0,0.0519
-HI,Hawaii,yes,4400,8800,1144,2288,0,0,0.11
-ID,Idaho,yes,16100,32200,0,0,0,0,0.053
-IL,Illinois,yes,0,0,2925,5850,0,0,0.0495
-IN,Indiana,yes,0,0,1000,2000,0,0,0.0295
-IA,Iowa,yes,16100,32200,0,0,40,80,0.038
-KS,Kansas,yes,3605,8240,9160,18320,0,0,0.0558
-KY,Kentucky,yes,3360,3360,0,0,0,0,0.035
-LA,Louisiana,yes,12875,25750,0,0,0,0,0.03
-ME,Maine,yes,8350,16700,5300,10600,0,0,0.0715
-MD,Maryland,yes,3350,6700,3200,6400,0,0,0.065
-MA,Massachusetts,yes,0,0,4400,8800,0,0,0.09
-MI,Michigan,yes,0,0,5900,11800,0,0,0.0425
-MN,Minnesota,yes,15300,30600,0,0,0,0,0.0985
-MS,Mississippi,yes,2300,4600,6000,12000,0,0,0.04
-MO,Missouri,yes,16100,32200,0,0,0,0,0.047
-MT,Montana,yes,16100,32200,0,0,0,0,0.0565
-NE,Nebraska,yes,8850,17700,0,0,176,352,0.0455
-NV,Nevada,no,0,0,0,0,0,0,0
-NH,New Hampshire,no,0,0,0,0,0,0,0
-NJ,New Jersey,yes,0,0,1000,2000,0,0,0.1075
-NM,New Mexico,yes,16100,32200,0,0,0,0,0.059
-NY,New York,yes,8000,16050,0,0,0,0,0.109
-NC,North Carolina,yes,12750,25500,0,0,0,0,0.0399
-ND,North Dakota,yes,16100,32200,0,0,0,0,0.025
-OH,Ohio,yes,0,0,2400,4800,0,0,0.0275
-OK,Oklahoma,yes,6350,12700,1000,2000,0,0,0.045
-OR,Oregon,yes,2910,5820,0,0,256,512,0.099
-PA,Pennsylvania,yes,0,0,0,0,0,0,0.0307
-RI,Rhode Island,yes,11200,22400,5250,10500,0,0,0.0599
-SC,South Carolina,yes,8350,16700,0,0,0,0,0.06
-SD,South Dakota,no,0,0,0,0,0,0,0
-TN,Tennessee,no,0,0,0,0,0,0,0
-TX,Texas,no,0,0,0,0,0,0,0
-UT,Utah,yes,0,0,0,0,966,1932,0.045
-VT,Vermont,yes,7650,15300,5300,10600,0,0,0.0875
-VA,Virginia,yes,8750,17500,930,1860,0,0,0.0575
-WA,Washington,no,0,0,0,0,0,0,0
-DC,Washington D.C.,yes,16100,32200,0,0,0,0,0.1075
-WV,West Virginia,yes,0,0,2000,4000,0,0,0.0482
-WI,Wisconsin,yes,13960,25840,700,1400,0,0,0.0765
-WY,Wyoming,no,0,0,0,0,0,0,0
+state_code,state,taxes_wages,standard_deduction_single,standard_deduction_married,personal_exemption_single,personal_exemption_married,credit_single,credit_married,credit_phaseout_rate,credit_phaseout_over_single,credit_phaseout_over_married,credit_max_agi_single,credit_max_agi_married,top_marginal_rate,model_note
+AL,Alabama,yes,3000,8500,1500,3000,0,0,,,,,,0.05,"Alabama lets you deduct federal income tax paid and phases its standard deduction down with income; neither is modelled, so tax is overstated for many filers."
+AK,Alaska,no,0,0,0,0,0,0,,,,,,0,
+AZ,Arizona,yes,8350,16700,0,0,0,0,,,,,,0.025,
+AR,Arkansas,yes,2470,4940,0,0,29,58,,,,,,0.037,
+CA,California,yes,5540,11080,0,0,153,306,,,,,,0.133,
+CO,Colorado,yes,16100,32200,0,0,0,0,,,,,,0.044,
+CT,Connecticut,yes,0,0,15000,24000,0,0,,,,,,0.0699,
+DE,Delaware,yes,3250,6500,0,0,110,220,,,,,,0.066,
+FL,Florida,no,0,0,0,0,0,0,,,,,,0,
+GA,Georgia,yes,12000,24000,0,0,0,0,,,,,,0.0499,
+HI,Hawaii,yes,4400,8800,1144,2288,0,0,,,,,,0.11,
+ID,Idaho,yes,16100,32200,0,0,0,0,,,,,,0.053,
+IL,Illinois,yes,0,0,2925,5850,0,0,,,,,,0.0495,
+IN,Indiana,yes,0,0,1000,2000,0,0,,,,,,0.0295,
+IA,Iowa,yes,16100,32200,0,0,40,80,,,,,,0.038,
+KS,Kansas,yes,3605,8240,9160,18320,0,0,,,,,,0.0558,
+KY,Kentucky,yes,3360,3360,0,0,0,0,,,,,,0.035,
+LA,Louisiana,yes,12875,25750,0,0,0,0,,,,,,0.03,
+ME,Maine,yes,8350,16700,5300,10600,0,0,,,,,,0.0915,
+MD,Maryland,yes,3350,6700,3200,6400,0,0,,,,,,0.065,
+MA,Massachusetts,yes,0,0,4400,8800,0,0,,,,,,0.09,
+MI,Michigan,yes,0,0,5900,11800,0,0,,,,,,0.0425,
+MN,Minnesota,yes,15300,30600,0,0,0,0,,,,,,0.0985,
+MS,Mississippi,yes,2300,4600,6000,12000,0,0,,,,,,0.04,
+MO,Missouri,yes,16100,32200,0,0,0,0,,,,,,0.047,"Missouri may allow a limited deduction for federal income tax; it is not modelled, so tax may be overstated."
+MT,Montana,yes,16100,32200,0,0,0,0,,,,,,0.0565,
+NE,Nebraska,yes,8850,17700,0,0,176,352,,,,,,0.0455,
+NV,Nevada,no,0,0,0,0,0,0,,,,,,0,
+NH,New Hampshire,no,0,0,0,0,0,0,,,,,,0,
+NJ,New Jersey,yes,0,0,1000,2000,0,0,,,,,,0.1075,
+NM,New Mexico,yes,16100,32200,0,0,0,0,,,,,,0.059,
+NY,New York,yes,8000,16050,0,0,0,0,,,,,,0.109,
+NC,North Carolina,yes,12750,25500,0,0,0,0,,,,,,0.0399,
+ND,North Dakota,yes,16100,32200,0,0,0,0,,,,,,0.025,
+OH,Ohio,yes,0,0,2400,4800,0,0,,,,,,0.0275,
+OK,Oklahoma,yes,6350,12700,1000,2000,0,0,,,,,,0.045,
+OR,Oregon,yes,2910,5820,0,0,256,512,,,,100000,200000,0.099,"Oregon lets you subtract part of your federal income tax; that subtraction is not modelled, so tax is overstated for many filers."
+PA,Pennsylvania,yes,0,0,0,0,0,0,,,,,,0.0307,
+RI,Rhode Island,yes,11200,22400,5250,10500,0,0,,,,,,0.0599,
+SC,South Carolina,yes,15000,30000,0,0,0,0,,,,,,0.0521,"The South Carolina Income Adjusted Deduction can shrink as income rises; that phase-out is not modelled, so tax may be understated at higher incomes."
+SD,South Dakota,no,0,0,0,0,0,0,,,,,,0,
+TN,Tennessee,no,0,0,0,0,0,0,,,,,,0,
+TX,Texas,no,0,0,0,0,0,0,,,,,,0,
+UT,Utah,yes,0,0,0,0,966,1932,0.013,15095,30190,,,0.0445,
+VT,Vermont,yes,7650,15300,5300,10600,0,0,,,,,,0.0875,
+VA,Virginia,yes,8750,17500,930,1860,0,0,,,,,,0.0575,
+WA,Washington,no,0,0,0,0,0,0,,,,,,0,
+DC,Washington D.C.,yes,16100,32200,0,0,0,0,,,,,,0.1075,
+WV,West Virginia,yes,0,0,2000,4000,0,0,,,,,,0.0458,
+WI,Wisconsin,yes,13960,25840,700,1400,0,0,,,,,,0.0765,
+WY,Wyoming,no,0,0,0,0,0,0,,,,,,0,

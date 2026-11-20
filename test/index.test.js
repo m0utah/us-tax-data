@@ -40,3 +40,21 @@ test('data files are consistent: 51 jurisdictions, 3 filing statuses', () => {
   assert.strictEqual(Object.keys(t.states).length, 51);
   assert.strictEqual(Object.keys(t.federal.brackets).length, 3);
 });
+
+test('2026 laws enacted after January are applied', () => {
+  assert.ok(Math.abs(t.stateTax(100000, 'GA') - 88000 * 0.0499) < 0.01);
+  assert.strictEqual(t.states.WV.brackets.single.at(-1).rate, 0.0458);
+  assert.strictEqual(t.states.SC.brackets.single.at(-1).rate, 0.0521);
+  assert.strictEqual(t.states.UT.brackets.single[0].rate, 0.0445);
+  assert.strictEqual(t.states.ME.brackets.single.at(-1).rate, 0.0915);
+  // Utah credit is fully phased out well below $100k
+  assert.ok(Math.abs(t.stateTax(100000, 'UT') - 100000 * 0.0445) < 0.01);
+});
+
+test('Oregon exemption credit is lost above $100k AGI (single)', () => {
+  assert.ok(t.stateTax(100001, 'OR') - t.stateTax(100000, 'OR') > 200);
+});
+
+test('states with a known modelling gap say so', () => {
+  for (const c of ['AL', 'MO', 'OR', 'SC']) assert.ok(t.states[c].modelNote, c);
+});

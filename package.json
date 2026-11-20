@@ -1,6 +1,6 @@
 {
   "name": "us-tax-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "2026 US federal and state income tax brackets, standard deductions, FICA, capital gains thresholds and CPI (1913-2025) as CSV/JSON, with small take-home-pay helpers.",
   "main": "index.js",
   "types": "index.d.ts",

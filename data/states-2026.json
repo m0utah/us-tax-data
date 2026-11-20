@@ -44,7 +44,8 @@
     "credit": {
       "single": 0,
       "married_filing_jointly": 0
-    }
+    },
+    "modelNote": "Alabama lets you deduct federal income tax paid and phases its standard deduction down with income; neither is modelled, so tax is overstated for many filers."
   },
   "AK": {
     "name": "Alaska",
@@ -101,7 +102,7 @@
   "AR": {
     "name": "Arkansas",
     "taxesWages": true,
-    "topMarginalRate": 0.039,
+    "topMarginalRate": 0.037,
     "brackets": {
       "single": [
         {
@@ -109,8 +110,8 @@
           "rate": 0.02
         },
         {
-          "floor": 4600,
-          "rate": 0.039
+          "floor": 4700,
+          "rate": 0.037
         }
       ],
       "married_filing_jointly": [
@@ -119,8 +120,8 @@
           "rate": 0.02
         },
         {
-          "floor": 4600,
-          "rate": 0.039
+          "floor": 4700,
+          "rate": 0.037
         }
       ]
     },
@@ -445,18 +446,18 @@
   "GA": {
     "name": "Georgia",
     "taxesWages": true,
-    "topMarginalRate": 0.0519,
+    "topMarginalRate": 0.0499,
     "brackets": {
       "single": [
         {
           "floor": 0,
-          "rate": 0.0519
+          "rate": 0.0499
         }
       ],
       "married_filing_jointly": [
         {
           "floor": 0,
-          "rate": 0.0519
+          "rate": 0.0499
         }
       ]
     },
@@ -820,7 +821,7 @@
   "ME": {
     "name": "Maine",
     "taxesWages": true,
-    "topMarginalRate": 0.0715,
+    "topMarginalRate": 0.0915,
     "brackets": {
       "single": [
         {
@@ -834,6 +835,10 @@
         {
           "floor": 64849,
           "rate": 0.0715
+        },
+        {
+          "floor": 1000000,
+          "rate": 0.0915
         }
       ],
       "married_filing_jointly": [
@@ -848,6 +853,10 @@
         {
           "floor": 129749,
           "rate": 0.0715
+        },
+        {
+          "floor": 1500000,
+          "rate": 0.0915
         }
       ]
     },
@@ -1200,7 +1209,8 @@
     "credit": {
       "single": 0,
       "married_filing_jointly": 0
-    }
+    },
+    "modelNote": "Missouri may allow a limited deduction for federal income tax; it is not modelled, so tax may be overstated."
   },
   "MT": {
     "name": "Montana",
@@ -1780,7 +1790,12 @@
     "credit": {
       "single": 256,
       "married_filing_jointly": 512
-    }
+    },
+    "creditDisallowedAboveAgi": {
+      "single": 100000,
+      "married_filing_jointly": 200000
+    },
+    "modelNote": "Oregon lets you subtract part of your federal income tax; that subtraction is not modelled, so tax is overstated for many filers."
   },
   "PA": {
     "name": "Pennsylvania",
@@ -1863,40 +1878,32 @@
   "SC": {
     "name": "South Carolina",
     "taxesWages": true,
-    "topMarginalRate": 0.06,
+    "topMarginalRate": 0.0521,
     "brackets": {
       "single": [
         {
           "floor": 0,
-          "rate": 0
+          "rate": 0.0199
         },
         {
-          "floor": 3640,
-          "rate": 0.03
-        },
-        {
-          "floor": 18230,
-          "rate": 0.06
+          "floor": 30000,
+          "rate": 0.0521
         }
       ],
       "married_filing_jointly": [
         {
           "floor": 0,
-          "rate": 0
+          "rate": 0.0199
         },
         {
-          "floor": 3640,
-          "rate": 0.03
-        },
-        {
-          "floor": 18230,
-          "rate": 0.06
+          "floor": 30000,
+          "rate": 0.0521
         }
       ]
     },
     "standardDeduction": {
-      "single": 8350,
-      "married_filing_jointly": 16700
+      "single": 15000,
+      "married_filing_jointly": 30000
     },
     "personalExemption": {
       "single": 0,
@@ -1905,7 +1912,8 @@
     "credit": {
       "single": 0,
       "married_filing_jointly": 0
-    }
+    },
+    "modelNote": "The South Carolina Income Adjusted Deduction can shrink as income rises; that phase-out is not modelled, so tax may be understated at higher incomes."
   },
   "SD": {
     "name": "South Dakota",
@@ -1973,18 +1981,18 @@
   "UT": {
     "name": "Utah",
     "taxesWages": true,
-    "topMarginalRate": 0.045,
+    "topMarginalRate": 0.0445,
     "brackets": {
       "single": [
         {
           "floor": 0,
-          "rate": 0.045
+          "rate": 0.0445
         }
       ],
       "married_filing_jointly": [
         {
           "floor": 0,
-          "rate": 0.045
+          "rate": 0.0445
         }
       ]
     },
@@ -1999,6 +2007,13 @@
     "credit": {
       "single": 966,
       "married_filing_jointly": 1932
+    },
+    "creditPhaseOut": {
+      "ratePerDollar": 0.013,
+      "overTaxableIncome": {
+        "single": 15095,
+        "married_filing_jointly": 30190
+      }
     }
   },
   "VT": {
@@ -2214,50 +2229,50 @@
   "WV": {
     "name": "West Virginia",
     "taxesWages": true,
-    "topMarginalRate": 0.0482,
+    "topMarginalRate": 0.0458,
     "brackets": {
       "single": [
         {
           "floor": 0,
-          "rate": 0.0222
+          "rate": 0.0211
         },
         {
           "floor": 10000,
-          "rate": 0.0296
+          "rate": 0.0281
         },
         {
           "floor": 25000,
-          "rate": 0.0333
+          "rate": 0.0316
         },
         {
           "floor": 40000,
-          "rate": 0.0444
+          "rate": 0.0422
         },
         {
           "floor": 60000,
-          "rate": 0.0482
+          "rate": 0.0458
         }
       ],
       "married_filing_jointly": [
         {
           "floor": 0,
-          "rate": 0.0222
+          "rate": 0.0211
         },
         {
           "floor": 10000,
-          "rate": 0.0296
+          "rate": 0.0281
         },
         {
           "floor": 25000,
-          "rate": 0.0333
+          "rate": 0.0316
         },
         {
           "floor": 40000,
-          "rate": 0.0444
+          "rate": 0.0422
         },
         {
           "floor": 60000,
-          "rate": 0.0482
+          "rate": 0.0458
         }
       ]
     },

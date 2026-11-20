@@ -56,7 +56,10 @@ function stateTax(gross, stateCode, { status = 'single', preTax = 0 } = {}) {
   if (!s.taxesWages) return 0;
   const k = norm(status) === 'married_filing_jointly' ? 'married_filing_jointly' : 'single';
   const taxable = Math.max(0, gross - preTax - s.standardDeduction[k] - s.personalExemption[k]);
-  return Math.max(0, throughBrackets(taxable, s.brackets[k]) - s.credit[k]);
+  let credit = s.credit[k];
+  if (s.creditPhaseOut) credit = Math.max(0, credit - s.creditPhaseOut.ratePerDollar * Math.max(0, taxable - s.creditPhaseOut.overTaxableIncome[k]));
+  if (s.creditDisallowedAboveAgi && gross - preTax > s.creditDisallowedAboveAgi[k]) credit = 0;
+  return Math.max(0, throughBrackets(taxable, s.brackets[k]) - credit);
 }
 
 /** Estimated annual take-home pay for a W-2 employee. */

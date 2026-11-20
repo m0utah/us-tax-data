@@ -8,9 +8,9 @@ AL,Alabama,married_filing_jointly,6000,0.05
 AZ,Arizona,single,0,0.025
 AZ,Arizona,married_filing_jointly,0,0.025
 AR,Arkansas,single,0,0.02
-AR,Arkansas,single,4600,0.039
+AR,Arkansas,single,4700,0.037
 AR,Arkansas,married_filing_jointly,0,0.02
-AR,Arkansas,married_filing_jointly,4600,0.039
+AR,Arkansas,married_filing_jointly,4700,0.037
 CA,California,single,0,0.01
 CA,California,single,11079,0.02
 CA,California,single,26264,0.04
@@ -59,8 +59,8 @@ DE,Delaware,married_filing_jointly,10000,0.048
 DE,Delaware,married_filing_jointly,20000,0.052
 DE,Delaware,married_filing_jointly,25000,0.0555
 DE,Delaware,married_filing_jointly,60000,0.066
-GA,Georgia,single,0,0.0519
-GA,Georgia,married_filing_jointly,0,0.0519
+GA,Georgia,single,0,0.0499
+GA,Georgia,married_filing_jointly,0,0.0499
 HI,Hawaii,single,0,0.014
 HI,Hawaii,single,9600,0.032
 HI,Hawaii,single,14400,0.055
@@ -104,9 +104,11 @@ LA,Louisiana,married_filing_jointly,0,0.03
 ME,Maine,single,0,0.058
 ME,Maine,single,27399,0.0675
 ME,Maine,single,64849,0.0715
+ME,Maine,single,1000000,0.0915
 ME,Maine,married_filing_jointly,0,0.058
 ME,Maine,married_filing_jointly,54849,0.0675
 ME,Maine,married_filing_jointly,129749,0.0715
+ME,Maine,married_filing_jointly,1500000,0.0915
 MD,Maryland,single,0,0.02
 MD,Maryland,single,1000,0.03
 MD,Maryland,single,2000,0.04
@@ -242,14 +244,12 @@ RI,Rhode Island,single,186450,0.0599
 RI,Rhode Island,married_filing_jointly,0,0.0375
 RI,Rhode Island,married_filing_jointly,82050,0.0475
 RI,Rhode Island,married_filing_jointly,186450,0.0599
-SC,South Carolina,single,0,0
-SC,South Carolina,single,3640,0.03
-SC,South Carolina,single,18230,0.06
-SC,South Carolina,married_filing_jointly,0,0
-SC,South Carolina,married_filing_jointly,3640,0.03
-SC,South Carolina,married_filing_jointly,18230,0.06
-UT,Utah,single,0,0.045
-UT,Utah,married_filing_jointly,0,0.045
+SC,South Carolina,single,0,0.0199
+SC,South Carolina,single,30000,0.0521
+SC,South Carolina,married_filing_jointly,0,0.0199
+SC,South Carolina,married_filing_jointly,30000,0.0521
+UT,Utah,single,0,0.0445
+UT,Utah,married_filing_jointly,0,0.0445
 VT,Vermont,single,0,0.0335
 VT,Vermont,single,49400,0.066
 VT,Vermont,single,119700,0.076
@@ -280,16 +280,16 @@ DC,Washington D.C.,married_filing_jointly,60000,0.085
 DC,Washington D.C.,married_filing_jointly,250000,0.0925
 DC,Washington D.C.,married_filing_jointly,500000,0.0975
 DC,Washington D.C.,married_filing_jointly,1000000,0.1075
-WV,West Virginia,single,0,0.0222
-WV,West Virginia,single,10000,0.0296
-WV,West Virginia,single,25000,0.0333
-WV,West Virginia,single,40000,0.0444
-WV,West Virginia,single,60000,0.0482
-WV,West Virginia,married_filing_jointly,0,0.0222
-WV,West Virginia,married_filing_jointly,10000,0.0296
-WV,West Virginia,married_filing_jointly,25000,0.0333
-WV,West Virginia,married_filing_jointly,40000,0.0444
-WV,West Virginia,married_filing_jointly,60000,0.0482
+WV,West Virginia,single,0,0.0211
+WV,West Virginia,single,10000,0.0281
+WV,West Virginia,single,25000,0.0316
+WV,West Virginia,single,40000,0.0422
+WV,West Virginia,single,60000,0.0458
+WV,West Virginia,married_filing_jointly,0,0.0211
+WV,West Virginia,married_filing_jointly,10000,0.0281
+WV,West Virginia,married_filing_jointly,25000,0.0316
+WV,West Virginia,married_filing_jointly,40000,0.0422
+WV,West Virginia,married_filing_jointly,60000,0.0458
 WI,Wisconsin,single,0,0.035
 WI,Wisconsin,single,15110,0.044
 WI,Wisconsin,single,51950,0.053

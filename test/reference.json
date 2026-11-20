@@ -43,6 +43,55 @@
   },
   {
     "gross": 30000,
+    "status": "single",
+    "state": "GA",
+    "fedTax": 1420,
+    "stateTax": 898.2
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "AR",
+    "fedTax": 1420,
+    "stateTax": 909.7099999999999
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "SC",
+    "fedTax": 1420,
+    "stateTax": 298.5
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "UT",
+    "fedTax": 1420,
+    "stateTax": 562.765
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "WV",
+    "fedTax": 1420,
+    "stateTax": 727.3
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "OR",
+    "fedTax": 1420,
+    "stateTax": 1795.375
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "ME",
+    "fedTax": 1420,
+    "stateTax": 948.3000000000001
+  },
+  {
+    "gross": 30000,
     "status": "married",
     "state": "CA",
     "fedTax": 0,
@@ -82,6 +131,55 @@
     "state": "PA",
     "fedTax": 0,
     "stateTax": 921
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "GA",
+    "fedTax": 0,
+    "stateTax": 299.4
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "AR",
+    "fedTax": 0,
+    "stateTax": 789.3199999999999
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "SC",
+    "fedTax": 0,
+    "stateTax": 0
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "UT",
+    "fedTax": 0,
+    "stateTax": 0
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "WV",
+    "fedTax": 0,
+    "stateTax": 664.1
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "OR",
+    "fedTax": 0,
+    "stateTax": 965.75
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "ME",
+    "fedTax": 0,
+    "stateTax": 156.6
   },
   {
     "gross": 55000,
@@ -127,6 +225,55 @@
   },
   {
     "gross": 55000,
+    "status": "single",
+    "state": "GA",
+    "fedTax": 4420,
+    "stateTax": 2145.7
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "AR",
+    "fedTax": 4420,
+    "stateTax": 1834.7099999999998
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "SC",
+    "fedTax": 4420,
+    "stateTax": 1118
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "UT",
+    "fedTax": 4420,
+    "stateTax": 2000.2649999999999
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "WV",
+    "fedTax": 4420,
+    "stateTax": 1655.1
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "OR",
+    "fedTax": 4420,
+    "stateTax": 3982.875
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "ME",
+    "fedTax": 4420,
+    "stateTax": 2530.8345
+  },
+  {
+    "gross": 55000,
     "status": "married",
     "state": "CA",
     "fedTax": 2280,
@@ -166,6 +313,55 @@
     "state": "PA",
     "fedTax": 2280,
     "stateTax": 1688.5
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "GA",
+    "fedTax": 2280,
+    "stateTax": 1546.9
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "AR",
+    "fedTax": 2280,
+    "stateTax": 1714.32
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "SC",
+    "fedTax": 2280,
+    "stateTax": 497.5
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "UT",
+    "fedTax": 2280,
+    "stateTax": 838.03
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "WV",
+    "fedTax": 2280,
+    "stateTax": 1570.7
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "OR",
+    "fedTax": 2280,
+    "stateTax": 3153.25
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "ME",
+    "fedTax": 2280,
+    "stateTax": 1606.6000000000001
   },
   {
     "gross": 85000,
@@ -211,6 +407,55 @@
   },
   {
     "gross": 85000,
+    "status": "single",
+    "state": "GA",
+    "fedTax": 9870,
+    "stateTax": 3642.7
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "AR",
+    "fedTax": 9870,
+    "stateTax": 2944.71
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "SC",
+    "fedTax": 9870,
+    "stateTax": 2681
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "UT",
+    "fedTax": 9870,
+    "stateTax": 3725.265
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "WV",
+    "fedTax": 9870,
+    "stateTax": 3003.9
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "OR",
+    "fedTax": 9870,
+    "stateTax": 6607.875
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "ME",
+    "fedTax": 9870,
+    "stateTax": 4581.8385
+  },
+  {
+    "gross": 85000,
     "status": "married",
     "state": "CA",
     "fedTax": 5840,
@@ -250,6 +495,55 @@
     "state": "PA",
     "fedTax": 5840,
     "stateTax": 2609.5
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "GA",
+    "fedTax": 5840,
+    "stateTax": 3043.9
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "AR",
+    "fedTax": 5840,
+    "stateTax": 2824.3199999999997
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "SC",
+    "fedTax": 5840,
+    "stateTax": 1899.5
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "UT",
+    "fedTax": 5840,
+    "stateTax": 2563.0299999999997
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "WV",
+    "fedTax": 5840,
+    "stateTax": 2912.3
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "OR",
+    "fedTax": 5840,
+    "stateTax": 5778.25
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "ME",
+    "fedTax": 5840,
+    "stateTax": 3373.6845000000003
   },
   {
     "gross": 120000,
@@ -295,6 +589,55 @@
   },
   {
     "gross": 120000,
+    "status": "single",
+    "state": "GA",
+    "fedTax": 17570,
+    "stateTax": 5389.2
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "AR",
+    "fedTax": 17570,
+    "stateTax": 4239.71
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "SC",
+    "fedTax": 17570,
+    "stateTax": 4504.5
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "UT",
+    "fedTax": 17570,
+    "stateTax": 5340
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "WV",
+    "fedTax": 17570,
+    "stateTax": 4606.9
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "OR",
+    "fedTax": 17570,
+    "stateTax": 9926.375
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "ME",
+    "fedTax": 17570,
+    "stateTax": 7084.3385
+  },
+  {
+    "gross": 120000,
     "status": "married",
     "state": "CA",
     "fedTax": 10040,
@@ -334,6 +677,55 @@
     "state": "PA",
     "fedTax": 10040,
     "stateTax": 3684
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "GA",
+    "fedTax": 10040,
+    "stateTax": 4790.4
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "AR",
+    "fedTax": 10040,
+    "stateTax": 4119.32
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "SC",
+    "fedTax": 10040,
+    "stateTax": 3723
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "UT",
+    "fedTax": 10040,
+    "stateTax": 4575.53
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "WV",
+    "fedTax": 10040,
+    "stateTax": 4515.3
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "OR",
+    "fedTax": 10040,
+    "stateTax": 8840.75
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "ME",
+    "fedTax": 10040,
+    "stateTax": 5736.1845
   },
   {
     "gross": 250000,
@@ -379,6 +771,55 @@
   },
   {
     "gross": 250000,
+    "status": "single",
+    "state": "GA",
+    "fedTax": 51304,
+    "stateTax": 11876.2
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "AR",
+    "fedTax": 51304,
+    "stateTax": 9049.71
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "SC",
+    "fedTax": 51304,
+    "stateTax": 11277.5
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "UT",
+    "fedTax": 51304,
+    "stateTax": 11125
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "WV",
+    "fedTax": 51304,
+    "stateTax": 10560.9
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "OR",
+    "fedTax": 51304,
+    "stateTax": 22705.41
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "ME",
+    "fedTax": 51304,
+    "stateTax": 16379.338499999998
+  },
+  {
+    "gross": 250000,
     "status": "married",
     "state": "CA",
     "fedTax": 37468,
@@ -418,6 +859,55 @@
     "state": "PA",
     "fedTax": 37468,
     "stateTax": 7675
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "GA",
+    "fedTax": 37468,
+    "stateTax": 11277.4
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "AR",
+    "fedTax": 37468,
+    "stateTax": 8929.32
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "SC",
+    "fedTax": 37468,
+    "stateTax": 10496
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "UT",
+    "fedTax": 37468,
+    "stateTax": 11125
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "WV",
+    "fedTax": 37468,
+    "stateTax": 10469.3
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "OR",
+    "fedTax": 37468,
+    "stateTax": 20727.75
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "ME",
+    "fedTax": 37468,
+    "stateTax": 14882.9885
   },
   {
     "gross": 700000,
@@ -463,6 +953,55 @@
   },
   {
     "gross": 700000,
+    "status": "single",
+    "state": "GA",
+    "fedTax": 209000.25,
+    "stateTax": 34331.2
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "AR",
+    "fedTax": 209000.25,
+    "stateTax": 25699.71
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "SC",
+    "fedTax": 209000.25,
+    "stateTax": 34722.5
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "UT",
+    "fedTax": 209000.25,
+    "stateTax": 31150
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "WV",
+    "fedTax": 209000.25,
+    "stateTax": 31170.9
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "OR",
+    "fedTax": 209000.25,
+    "stateTax": 67255.41
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "ME",
+    "fedTax": 209000.25,
+    "stateTax": 48554.3385
+  },
+  {
+    "gross": 700000,
     "status": "married",
     "state": "CA",
     "fedTax": 171268.5,
@@ -502,5 +1041,54 @@
     "state": "PA",
     "fedTax": 171268.5,
     "stateTax": 21490
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "GA",
+    "fedTax": 171268.5,
+    "stateTax": 33732.4
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "AR",
+    "fedTax": 171268.5,
+    "stateTax": 25579.32
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "SC",
+    "fedTax": 171268.5,
+    "stateTax": 33941
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "UT",
+    "fedTax": 171268.5,
+    "stateTax": 31150
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "WV",
+    "fedTax": 171268.5,
+    "stateTax": 31079.3
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "OR",
+    "fedTax": 171268.5,
+    "stateTax": 65210.82
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "ME",
+    "fedTax": 171268.5,
+    "stateTax": 47057.98849999999
   }
 ]
