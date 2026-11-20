@@ -2,7 +2,7 @@
 
 2026 US **federal and state income tax tables**, FICA, capital-gains thresholds, retirement limits, **CPI (1913–2025)**, as CSV and JSON, plus small helpers to estimate take-home pay.
 
-Compiled and maintained by [CalcVerseAI](https://calcverseai.com), which uses the same tables in its free [take-home pay](https://calcverseai.com/calculators/finance/take-home-pay) and [income tax](https://calcverseai.com/calculators/finance/income-tax) calculators. Figures last verified **2026-11-20**.
+Compiled and maintained by [CalcVerseAI](https://calcverseai.com) (see the interactive [take-home pay by state](https://calcverseai.com/data/take-home-pay-by-state) page), which uses the same tables in its free [take-home pay](https://calcverseai.com/calculators/finance/take-home-pay) and [income tax](https://calcverseai.com/calculators/finance/income-tax) calculators. Figures last verified **2026-11-20**.
 
 ```bash
 npm install us-tax-data
@@ -120,7 +120,7 @@ The tests check the helpers against hand-computed values and against reference r
 
 ## Contributing
 
-Found a wrong number? Open an issue with the source. See also the [online data pages](https://calcverseai.com/data/inflation-by-year) and [embeddable calculators](https://calcverseai.com/embed).
+Found a wrong number? Open an issue with the source. See also the [take-home pay by state page](https://calcverseai.com/data/take-home-pay-by-state) and the other [data pages](https://calcverseai.com/data/inflation-by-year) and [embeddable calculators](https://calcverseai.com/embed).
 
 ## License
 
