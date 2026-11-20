@@ -1,0 +1,13 @@
+{
+  "name": "us-tax-data",
+  "version": "1.0.0",
+  "description": "2026 US federal and state income tax brackets, standard deductions, FICA, capital gains thresholds, CPI (1913-2025) and mortgage-rate history as CSV/JSON, with small take-home-pay helpers.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["index.js", "index.d.ts", "data", "README.md", "LICENSE", "LICENSE-DATA.md"],
+  "scripts": { "test": "node --test test/index.test.js" },
+  "keywords": ["tax", "income-tax", "tax-brackets", "2026", "state-tax", "federal-tax", "take-home-pay", "paycheck", "cpi", "inflation", "mortgage-rates", "dataset", "csv"],
+  "homepage": "https://calcverseai.com",
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}

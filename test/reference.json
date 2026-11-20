@@ -1,0 +1,506 @@
+[
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "CA",
+    "fedTax": 1420,
+    "stateTax": 225.41000000000003
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "NY",
+    "fedTax": 1420,
+    "stateTax": 1022.9999999999999
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "TX",
+    "fedTax": 1420,
+    "stateTax": 0
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "IL",
+    "fedTax": 1420,
+    "stateTax": 1340.2125
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "MA",
+    "fedTax": 1420,
+    "stateTax": 1280
+  },
+  {
+    "gross": 30000,
+    "status": "single",
+    "state": "PA",
+    "fedTax": 1420,
+    "stateTax": 921
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "CA",
+    "fedTax": 0,
+    "stateTax": 0
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "NY",
+    "fedTax": 0,
+    "stateTax": 544.05
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "TX",
+    "fedTax": 0,
+    "stateTax": 0
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "IL",
+    "fedTax": 0,
+    "stateTax": 1195.425
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "MA",
+    "fedTax": 0,
+    "stateTax": 1060
+  },
+  {
+    "gross": 30000,
+    "status": "married",
+    "state": "PA",
+    "fedTax": 0,
+    "stateTax": 921
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "CA",
+    "fedTax": 4420,
+    "stateTax": 1349.49
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "NY",
+    "fedTax": 4420,
+    "stateTax": 2373
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "TX",
+    "fedTax": 4420,
+    "stateTax": 0
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "IL",
+    "fedTax": 4420,
+    "stateTax": 2577.7125
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "MA",
+    "fedTax": 4420,
+    "stateTax": 2530
+  },
+  {
+    "gross": 55000,
+    "status": "single",
+    "state": "PA",
+    "fedTax": 4420,
+    "stateTax": 1688.5
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "CA",
+    "fedTax": 2280,
+    "stateTax": 350.82000000000005
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "NY",
+    "fedTax": 2280,
+    "stateTax": 1770.8000000000002
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "TX",
+    "fedTax": 2280,
+    "stateTax": 0
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "IL",
+    "fedTax": 2280,
+    "stateTax": 2432.925
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "MA",
+    "fedTax": 2280,
+    "stateTax": 2310
+  },
+  {
+    "gross": 55000,
+    "status": "married",
+    "state": "PA",
+    "fedTax": 2280,
+    "stateTax": 1688.5
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "CA",
+    "fedTax": 9870,
+    "stateTax": 3675.4179999999997
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "NY",
+    "fedTax": 9870,
+    "stateTax": 3993
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "TX",
+    "fedTax": 9870,
+    "stateTax": 0
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "IL",
+    "fedTax": 9870,
+    "stateTax": 4062.7125
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "MA",
+    "fedTax": 9870,
+    "stateTax": 4030
+  },
+  {
+    "gross": 85000,
+    "status": "single",
+    "state": "PA",
+    "fedTax": 9870,
+    "stateTax": 2609.5
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "CA",
+    "fedTax": 5840,
+    "stateTax": 1378.66
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "NY",
+    "fedTax": 5840,
+    "stateTax": 3390.8
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "TX",
+    "fedTax": 5840,
+    "stateTax": 0
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "IL",
+    "fedTax": 5840,
+    "stateTax": 3917.925
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "MA",
+    "fedTax": 5840,
+    "stateTax": 3810
+  },
+  {
+    "gross": 85000,
+    "status": "married",
+    "state": "PA",
+    "fedTax": 5840,
+    "stateTax": 2609.5
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "CA",
+    "fedTax": 17570,
+    "stateTax": 6930.418
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "NY",
+    "fedTax": 17570,
+    "stateTax": 6039.75
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "TX",
+    "fedTax": 17570,
+    "stateTax": 0
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "IL",
+    "fedTax": 17570,
+    "stateTax": 5795.212500000001
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "MA",
+    "fedTax": 17570,
+    "stateTax": 5780
+  },
+  {
+    "gross": 120000,
+    "status": "single",
+    "state": "PA",
+    "fedTax": 17570,
+    "stateTax": 3684
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "CA",
+    "fedTax": 10040,
+    "stateTax": 3298.98
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "NY",
+    "fedTax": 10040,
+    "stateTax": 5280.8
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "TX",
+    "fedTax": 10040,
+    "stateTax": 0
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "IL",
+    "fedTax": 10040,
+    "stateTax": 5650.425
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "MA",
+    "fedTax": 10040,
+    "stateTax": 5560
+  },
+  {
+    "gross": 120000,
+    "status": "married",
+    "state": "PA",
+    "fedTax": 10040,
+    "stateTax": 3684
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "CA",
+    "fedTax": 51304,
+    "stateTax": 19020.418
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "NY",
+    "fedTax": 51304,
+    "stateTax": 13962.45
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "TX",
+    "fedTax": 51304,
+    "stateTax": 0
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "IL",
+    "fedTax": 51304,
+    "stateTax": 12230.212500000001
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "MA",
+    "fedTax": 51304,
+    "stateTax": 12280
+  },
+  {
+    "gross": 250000,
+    "status": "single",
+    "state": "PA",
+    "fedTax": 51304,
+    "stateTax": 7675
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "CA",
+    "fedTax": 37468,
+    "stateTax": 14790.836
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "NY",
+    "fedTax": 37468,
+    "stateTax": 12662.8
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "TX",
+    "fedTax": 37468,
+    "stateTax": 0
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "IL",
+    "fedTax": 37468,
+    "stateTax": 12085.425000000001
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "MA",
+    "fedTax": 37468,
+    "stateTax": 12060
+  },
+  {
+    "gross": 250000,
+    "status": "married",
+    "state": "PA",
+    "fedTax": 37468,
+    "stateTax": 7675
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "CA",
+    "fedTax": 209000.25,
+    "stateTax": 66587.118
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "NY",
+    "fedTax": 209000.25,
+    "stateTax": 44787.450000000004
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "TX",
+    "fedTax": 209000.25,
+    "stateTax": 0
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "IL",
+    "fedTax": 209000.25,
+    "stateTax": 34505.2125
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "MA",
+    "fedTax": 209000.25,
+    "stateTax": 34780
+  },
+  {
+    "gross": 700000,
+    "status": "single",
+    "state": "PA",
+    "fedTax": 209000.25,
+    "stateTax": 21490
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "CA",
+    "fedTax": 171268.5,
+    "stateTax": 56640.836
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "NY",
+    "fedTax": 171268.5,
+    "stateTax": 42639.925
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "TX",
+    "fedTax": 171268.5,
+    "stateTax": 0
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "IL",
+    "fedTax": 171268.5,
+    "stateTax": 34360.425
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "MA",
+    "fedTax": 171268.5,
+    "stateTax": 34560
+  },
+  {
+    "gross": 700000,
+    "status": "married",
+    "state": "PA",
+    "fedTax": 171268.5,
+    "stateTax": 21490
+  }
+]

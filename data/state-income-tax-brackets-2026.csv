@@ -1,0 +1,300 @@
+state_code,state,filing_status,bracket_floor,rate
+AL,Alabama,single,0,0.02
+AL,Alabama,single,500,0.04
+AL,Alabama,single,3000,0.05
+AL,Alabama,married_filing_jointly,0,0.02
+AL,Alabama,married_filing_jointly,1000,0.04
+AL,Alabama,married_filing_jointly,6000,0.05
+AZ,Arizona,single,0,0.025
+AZ,Arizona,married_filing_jointly,0,0.025
+AR,Arkansas,single,0,0.02
+AR,Arkansas,single,4600,0.039
+AR,Arkansas,married_filing_jointly,0,0.02
+AR,Arkansas,married_filing_jointly,4600,0.039
+CA,California,single,0,0.01
+CA,California,single,11079,0.02
+CA,California,single,26264,0.04
+CA,California,single,41452,0.06
+CA,California,single,57542,0.08
+CA,California,single,72724,0.093
+CA,California,single,371479,0.103
+CA,California,single,445771,0.113
+CA,California,single,742953,0.123
+CA,California,single,1000000,0.133
+CA,California,married_filing_jointly,0,0.01
+CA,California,married_filing_jointly,22158,0.02
+CA,California,married_filing_jointly,52528,0.04
+CA,California,married_filing_jointly,82904,0.06
+CA,California,married_filing_jointly,115084,0.08
+CA,California,married_filing_jointly,145448,0.093
+CA,California,married_filing_jointly,742958,0.103
+CA,California,married_filing_jointly,891542,0.113
+CA,California,married_filing_jointly,1000000,0.123
+CA,California,married_filing_jointly,1485906,0.133
+CO,Colorado,single,0,0.044
+CO,Colorado,married_filing_jointly,0,0.044
+CT,Connecticut,single,0,0.02
+CT,Connecticut,single,10000,0.045
+CT,Connecticut,single,50000,0.055
+CT,Connecticut,single,100000,0.06
+CT,Connecticut,single,200000,0.065
+CT,Connecticut,single,250000,0.069
+CT,Connecticut,single,500000,0.0699
+CT,Connecticut,married_filing_jointly,0,0.02
+CT,Connecticut,married_filing_jointly,20000,0.045
+CT,Connecticut,married_filing_jointly,100000,0.055
+CT,Connecticut,married_filing_jointly,200000,0.06
+CT,Connecticut,married_filing_jointly,400000,0.065
+CT,Connecticut,married_filing_jointly,500000,0.069
+CT,Connecticut,married_filing_jointly,1000000,0.0699
+DE,Delaware,single,2000,0.022
+DE,Delaware,single,5000,0.039
+DE,Delaware,single,10000,0.048
+DE,Delaware,single,20000,0.052
+DE,Delaware,single,25000,0.0555
+DE,Delaware,single,60000,0.066
+DE,Delaware,married_filing_jointly,2000,0.022
+DE,Delaware,married_filing_jointly,5000,0.039
+DE,Delaware,married_filing_jointly,10000,0.048
+DE,Delaware,married_filing_jointly,20000,0.052
+DE,Delaware,married_filing_jointly,25000,0.0555
+DE,Delaware,married_filing_jointly,60000,0.066
+GA,Georgia,single,0,0.0519
+GA,Georgia,married_filing_jointly,0,0.0519
+HI,Hawaii,single,0,0.014
+HI,Hawaii,single,9600,0.032
+HI,Hawaii,single,14400,0.055
+HI,Hawaii,single,19200,0.064
+HI,Hawaii,single,24000,0.068
+HI,Hawaii,single,36000,0.072
+HI,Hawaii,single,48000,0.076
+HI,Hawaii,single,125000,0.079
+HI,Hawaii,single,175000,0.0825
+HI,Hawaii,single,225000,0.09
+HI,Hawaii,single,275000,0.1
+HI,Hawaii,single,325000,0.11
+HI,Hawaii,married_filing_jointly,0,0.014
+HI,Hawaii,married_filing_jointly,19200,0.032
+HI,Hawaii,married_filing_jointly,28800,0.055
+HI,Hawaii,married_filing_jointly,38400,0.064
+HI,Hawaii,married_filing_jointly,48000,0.068
+HI,Hawaii,married_filing_jointly,72000,0.072
+HI,Hawaii,married_filing_jointly,96000,0.076
+HI,Hawaii,married_filing_jointly,250000,0.079
+HI,Hawaii,married_filing_jointly,350000,0.0825
+HI,Hawaii,married_filing_jointly,450000,0.09
+HI,Hawaii,married_filing_jointly,550000,0.1
+HI,Hawaii,married_filing_jointly,650000,0.11
+ID,Idaho,single,4811,0.053
+ID,Idaho,married_filing_jointly,9622,0.053
+IL,Illinois,single,0,0.0495
+IL,Illinois,married_filing_jointly,0,0.0495
+IN,Indiana,single,0,0.0295
+IN,Indiana,married_filing_jointly,0,0.0295
+IA,Iowa,single,0,0.038
+IA,Iowa,married_filing_jointly,0,0.038
+KS,Kansas,single,0,0.052
+KS,Kansas,single,23000,0.0558
+KS,Kansas,married_filing_jointly,0,0.052
+KS,Kansas,married_filing_jointly,46000,0.0558
+KY,Kentucky,single,0,0.035
+KY,Kentucky,married_filing_jointly,0,0.035
+LA,Louisiana,single,0,0.03
+LA,Louisiana,married_filing_jointly,0,0.03
+ME,Maine,single,0,0.058
+ME,Maine,single,27399,0.0675
+ME,Maine,single,64849,0.0715
+ME,Maine,married_filing_jointly,0,0.058
+ME,Maine,married_filing_jointly,54849,0.0675
+ME,Maine,married_filing_jointly,129749,0.0715
+MD,Maryland,single,0,0.02
+MD,Maryland,single,1000,0.03
+MD,Maryland,single,2000,0.04
+MD,Maryland,single,3000,0.0475
+MD,Maryland,single,100000,0.05
+MD,Maryland,single,125000,0.0525
+MD,Maryland,single,150000,0.055
+MD,Maryland,single,250000,0.0575
+MD,Maryland,single,500000,0.0625
+MD,Maryland,single,1000000,0.065
+MD,Maryland,married_filing_jointly,0,0.02
+MD,Maryland,married_filing_jointly,1000,0.03
+MD,Maryland,married_filing_jointly,2000,0.04
+MD,Maryland,married_filing_jointly,3000,0.0475
+MD,Maryland,married_filing_jointly,150000,0.05
+MD,Maryland,married_filing_jointly,175000,0.0525
+MD,Maryland,married_filing_jointly,225000,0.055
+MD,Maryland,married_filing_jointly,300000,0.0575
+MD,Maryland,married_filing_jointly,600000,0.0625
+MD,Maryland,married_filing_jointly,1200000,0.065
+MA,Massachusetts,single,0,0.05
+MA,Massachusetts,single,1083150,0.09
+MA,Massachusetts,married_filing_jointly,0,0.05
+MA,Massachusetts,married_filing_jointly,1083150,0.09
+MI,Michigan,single,0,0.0425
+MI,Michigan,married_filing_jointly,0,0.0425
+MN,Minnesota,single,0,0.0535
+MN,Minnesota,single,33310,0.068
+MN,Minnesota,single,109430,0.0785
+MN,Minnesota,single,203150,0.0985
+MN,Minnesota,married_filing_jointly,0,0.0535
+MN,Minnesota,married_filing_jointly,48700,0.068
+MN,Minnesota,married_filing_jointly,193480,0.0785
+MN,Minnesota,married_filing_jointly,337930,0.0985
+MS,Mississippi,single,10000,0.04
+MS,Mississippi,married_filing_jointly,10000,0.04
+MO,Missouri,single,1348,0.02
+MO,Missouri,single,2696,0.025
+MO,Missouri,single,4044,0.03
+MO,Missouri,single,5392,0.035
+MO,Missouri,single,6740,0.04
+MO,Missouri,single,8088,0.045
+MO,Missouri,single,9436,0.047
+MO,Missouri,married_filing_jointly,1348,0.02
+MO,Missouri,married_filing_jointly,2696,0.025
+MO,Missouri,married_filing_jointly,4044,0.03
+MO,Missouri,married_filing_jointly,5392,0.035
+MO,Missouri,married_filing_jointly,6740,0.04
+MO,Missouri,married_filing_jointly,8088,0.045
+MO,Missouri,married_filing_jointly,9436,0.047
+MT,Montana,single,0,0.047
+MT,Montana,single,47500,0.0565
+MT,Montana,married_filing_jointly,0,0.047
+MT,Montana,married_filing_jointly,95000,0.0565
+NE,Nebraska,single,0,0.0246
+NE,Nebraska,single,4130,0.0351
+NE,Nebraska,single,24760,0.0455
+NE,Nebraska,married_filing_jointly,0,0.0246
+NE,Nebraska,married_filing_jointly,8250,0.0351
+NE,Nebraska,married_filing_jointly,49530,0.0455
+NJ,New Jersey,single,0,0.014
+NJ,New Jersey,single,20000,0.0175
+NJ,New Jersey,single,35000,0.035
+NJ,New Jersey,single,40000,0.0553
+NJ,New Jersey,single,75000,0.0637
+NJ,New Jersey,single,500000,0.0897
+NJ,New Jersey,single,1000000,0.1075
+NJ,New Jersey,married_filing_jointly,0,0.014
+NJ,New Jersey,married_filing_jointly,20000,0.0175
+NJ,New Jersey,married_filing_jointly,50000,0.0245
+NJ,New Jersey,married_filing_jointly,70000,0.035
+NJ,New Jersey,married_filing_jointly,80000,0.0553
+NJ,New Jersey,married_filing_jointly,150000,0.0637
+NJ,New Jersey,married_filing_jointly,500000,0.0897
+NJ,New Jersey,married_filing_jointly,1000000,0.1075
+NM,New Mexico,single,0,0.015
+NM,New Mexico,single,5500,0.032
+NM,New Mexico,single,16500,0.043
+NM,New Mexico,single,33500,0.047
+NM,New Mexico,single,66500,0.049
+NM,New Mexico,single,210000,0.059
+NM,New Mexico,married_filing_jointly,0,0.015
+NM,New Mexico,married_filing_jointly,8000,0.032
+NM,New Mexico,married_filing_jointly,25000,0.043
+NM,New Mexico,married_filing_jointly,50000,0.047
+NM,New Mexico,married_filing_jointly,100000,0.049
+NM,New Mexico,married_filing_jointly,315000,0.059
+NY,New York,single,0,0.039
+NY,New York,single,8500,0.044
+NY,New York,single,11700,0.0515
+NY,New York,single,13900,0.054
+NY,New York,single,80650,0.059
+NY,New York,single,215400,0.0685
+NY,New York,single,1077550,0.0965
+NY,New York,single,5000000,0.103
+NY,New York,single,25000000,0.109
+NY,New York,married_filing_jointly,0,0.039
+NY,New York,married_filing_jointly,17150,0.044
+NY,New York,married_filing_jointly,23600,0.0515
+NY,New York,married_filing_jointly,27900,0.054
+NY,New York,married_filing_jointly,161550,0.059
+NY,New York,married_filing_jointly,323200,0.0685
+NY,New York,married_filing_jointly,2155350,0.0965
+NY,New York,married_filing_jointly,5000000,0.103
+NY,New York,married_filing_jointly,25000000,0.109
+NC,North Carolina,single,0,0.0399
+NC,North Carolina,married_filing_jointly,0,0.0399
+ND,North Dakota,single,48475,0.0195
+ND,North Dakota,single,244825,0.025
+ND,North Dakota,married_filing_jointly,80975,0.0195
+ND,North Dakota,married_filing_jointly,298075,0.025
+OH,Ohio,single,26050,0.0275
+OH,Ohio,married_filing_jointly,26050,0.0275
+OK,Oklahoma,single,3750,0.025
+OK,Oklahoma,single,4900,0.035
+OK,Oklahoma,single,7200,0.045
+OK,Oklahoma,married_filing_jointly,7500,0.025
+OK,Oklahoma,married_filing_jointly,9800,0.035
+OK,Oklahoma,married_filing_jointly,14400,0.045
+OR,Oregon,single,0,0.0475
+OR,Oregon,single,4550,0.0675
+OR,Oregon,single,11400,0.0875
+OR,Oregon,single,125000,0.099
+OR,Oregon,married_filing_jointly,0,0.0475
+OR,Oregon,married_filing_jointly,9100,0.0675
+OR,Oregon,married_filing_jointly,22800,0.0875
+OR,Oregon,married_filing_jointly,250000,0.099
+PA,Pennsylvania,single,0,0.0307
+PA,Pennsylvania,married_filing_jointly,0,0.0307
+RI,Rhode Island,single,0,0.0375
+RI,Rhode Island,single,82050,0.0475
+RI,Rhode Island,single,186450,0.0599
+RI,Rhode Island,married_filing_jointly,0,0.0375
+RI,Rhode Island,married_filing_jointly,82050,0.0475
+RI,Rhode Island,married_filing_jointly,186450,0.0599
+SC,South Carolina,single,0,0
+SC,South Carolina,single,3640,0.03
+SC,South Carolina,single,18230,0.06
+SC,South Carolina,married_filing_jointly,0,0
+SC,South Carolina,married_filing_jointly,3640,0.03
+SC,South Carolina,married_filing_jointly,18230,0.06
+UT,Utah,single,0,0.045
+UT,Utah,married_filing_jointly,0,0.045
+VT,Vermont,single,0,0.0335
+VT,Vermont,single,49400,0.066
+VT,Vermont,single,119700,0.076
+VT,Vermont,single,249700,0.0875
+VT,Vermont,married_filing_jointly,0,0.0335
+VT,Vermont,married_filing_jointly,82500,0.066
+VT,Vermont,married_filing_jointly,199450,0.076
+VT,Vermont,married_filing_jointly,304000,0.0875
+VA,Virginia,single,0,0.02
+VA,Virginia,single,3000,0.03
+VA,Virginia,single,5000,0.05
+VA,Virginia,single,17000,0.0575
+VA,Virginia,married_filing_jointly,0,0.02
+VA,Virginia,married_filing_jointly,3000,0.03
+VA,Virginia,married_filing_jointly,5000,0.05
+VA,Virginia,married_filing_jointly,17000,0.0575
+DC,Washington D.C.,single,0,0.04
+DC,Washington D.C.,single,10000,0.06
+DC,Washington D.C.,single,40000,0.065
+DC,Washington D.C.,single,60000,0.085
+DC,Washington D.C.,single,250000,0.0925
+DC,Washington D.C.,single,500000,0.0975
+DC,Washington D.C.,single,1000000,0.1075
+DC,Washington D.C.,married_filing_jointly,0,0.04
+DC,Washington D.C.,married_filing_jointly,10000,0.06
+DC,Washington D.C.,married_filing_jointly,40000,0.065
+DC,Washington D.C.,married_filing_jointly,60000,0.085
+DC,Washington D.C.,married_filing_jointly,250000,0.0925
+DC,Washington D.C.,married_filing_jointly,500000,0.0975
+DC,Washington D.C.,married_filing_jointly,1000000,0.1075
+WV,West Virginia,single,0,0.0222
+WV,West Virginia,single,10000,0.0296
+WV,West Virginia,single,25000,0.0333
+WV,West Virginia,single,40000,0.0444
+WV,West Virginia,single,60000,0.0482
+WV,West Virginia,married_filing_jointly,0,0.0222
+WV,West Virginia,married_filing_jointly,10000,0.0296
+WV,West Virginia,married_filing_jointly,25000,0.0333
+WV,West Virginia,married_filing_jointly,40000,0.0444
+WV,West Virginia,married_filing_jointly,60000,0.0482
+WI,Wisconsin,single,0,0.035
+WI,Wisconsin,single,15110,0.044
+WI,Wisconsin,single,51950,0.053
+WI,Wisconsin,single,332720,0.0765
+WI,Wisconsin,married_filing_jointly,0,0.035
+WI,Wisconsin,married_filing_jointly,20150,0.044
+WI,Wisconsin,married_filing_jointly,69260,0.053
+WI,Wisconsin,married_filing_jointly,443630,0.0765

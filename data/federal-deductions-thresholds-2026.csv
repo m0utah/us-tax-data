@@ -1,0 +1,4 @@
+tax_year,filing_status,standard_deduction,ltcg_0pct_max_taxable_income,ltcg_15pct_max_taxable_income,additional_medicare_threshold,niit_threshold
+2026,single,16100,49450,545500,200000,200000
+2026,married_filing_jointly,32200,98900,613700,250000,250000
+2026,head_of_household,24150,66200,579600,200000,200000
