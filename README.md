@@ -1,6 +1,6 @@
 # us-tax-data
 
-2026 US **federal and state income tax tables**, FICA, capital-gains thresholds, retirement limits, **CPI (1913–2025)** and **mortgage-rate history**, as CSV and JSON, plus small helpers to estimate take-home pay.
+2026 US **federal and state income tax tables**, FICA, capital-gains thresholds, retirement limits, **CPI (1913–2025)**, as CSV and JSON, plus small helpers to estimate take-home pay.
 
 Compiled and maintained by [CalcVerseAI](https://calcverseai.com), which uses the same tables in its free [take-home pay](https://calcverseai.com/calculators/finance/take-home-pay) and [income tax](https://calcverseai.com/calculators/finance/income-tax) calculators. Figures last verified **2026-11-19**.
 
@@ -31,7 +31,6 @@ tax.states.TX.taxesWages;                 // false
 | `state-income-tax-summary-2026.csv` | State standard deductions, personal exemptions, credits, top rate |
 | `states-2026.json` | The same state data, structured |
 | `cpi-annual-1913-2025.csv` / `cpi-annual.json` | BLS CPI-U annual averages and year-over-year inflation |
-| `mortgage-rates-annual.csv` | Freddie Mac 30-year fixed annual average, Fed funds rate, CPI inflation, 1971 onward |
 
 ## Sources
 
@@ -39,7 +38,6 @@ tax.states.TX.taxesWages;                 // false
 - Retirement limits: IRS Notice 2025-67 · Social Security wage base: SSA
 - State brackets and deductions: Tax Foundation, *2026 State Income Tax Rates and Brackets*
 - CPI-U: Bureau of Labor Statistics (series CUUR0000SA0). The 2025 value is the average of the 11 published months, because BLS did not publish October 2025.
-- Mortgage rates: Freddie Mac PMMS annual averages; Federal funds: Federal Reserve / FRED
 
 ## Example: $100,000 salary, single filer, 2026 — take-home by state
 
@@ -100,6 +98,8 @@ Estimates for a W-2 employee with no pre-tax deductions (federal + FICA + state 
 | 51 | Oregon | $7,920 | $28,740 | $71,260 | 28.7% |
 
 ## Limits (read before relying on it)
+
+This project is independent and is **not affiliated with or endorsed by** the IRS, the Social Security Administration, the BLS or any state tax agency.
 
 This is an **estimate, not tax advice or a tax return.** It does not model local or city taxes, dependents, credits other than fixed state credits, itemized deductions, or state-specific adjustments (for example Oregon's federal-tax subtraction or California SDI). Head of household uses the single state schedule. Always check figures against the primary sources above before filing.
 
