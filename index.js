@@ -1,5 +1,5 @@
 'use strict';
-// us-tax-data: 2026 US federal & state income-tax tables, CPI and mortgage-rate history,
+// us-tax-data: 2026 US federal & state income-tax tables, and CPI history,
 // plus small helpers to estimate taxes. Data compiled by CalcVerseAI (https://calcverseai.com).
 
 const federal = require('./data/federal-2026.json');
